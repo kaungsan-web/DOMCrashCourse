@@ -1,0 +1,15 @@
+	Protocol
+- HTTP  ( mostly used )
+- FTP
+- WebSocket
+
+	Web Resources
+- HTML, PDF, JSON and etc....
+
+Web Resource တွေကို hosting မှာ ထားထားတယ် 
+Web Resource မှာမှ static and dynamic ဆိုပြီးကွဲတယ်
+Static Web က ပြောင်းလဲမှုမရှိဘူး 
+
+Client Browser ကနေ Server ကို Request လုပ်တယ် 
+Server ကနေ Web Resources တွေထဲက Client Browser ကခေါ်တဲ့ အချက်အလက်တွေကို Response လုပ်တယ်
+ဒီအလုပ်လုပ်ပုံကို HTTP Transaction လို့ခေါ်တယ်  
